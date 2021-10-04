@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4ec8ae6ffc6a5be4f943a1e4091d5f3a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - torqueSpeed: {fileID: 11400000, guid: 5b508780372faa140a94e7d5f039b4f0, type: 2}
+  - plankRotation: {fileID: 11400000, guid: d11f277dc3473b34b98c972be422c01e, type: 2}
+  - plankAngleLimit: {fileID: 11400000, guid: db79df185cd8700488106d1af8535c55, type: 2}
+  - plankLength: {fileID: 11400000, guid: 675d8469e8ca82844bb6e016d6e28b01, type: 2}
+  - plankExtents: {fileID: 11400000, guid: 2c748a35b7dab2844be325ffcf93664e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

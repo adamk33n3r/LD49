@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e598f8d98afd0e42b56d81069452096, type: 3}
+  m_Name: Auto Balance Level 1
+  m_EditorClassIdentifier: 
+  name: Auto Balance 1
+  cost: 200
+  uses: 0
+  sprite: {fileID: 21300000, guid: fb5cc1b9301bcfe4e8bf976c77aa21bd, type: 3}
+  torqueAmount: 20

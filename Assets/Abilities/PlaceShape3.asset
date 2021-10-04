@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d777a527cfdc89e4ebdb823f8b4faabb, type: 3}
+  m_Name: PlaceShape3
+  m_EditorClassIdentifier: 
+  name: Oversized Box Placer
+  cost: 500
+  uses: 0
+  sprite: {fileID: 21300000, guid: 44cd06490e006fd4ba2aa8d946b4a341, type: 3}
+  cooldownTime: 10
+  activeTime: 0
+  shapeToSpawn: {fileID: 2637670218835484415, guid: 73326f531ce69ca47b3f5a2cc48de6c2,
+    type: 3}
+  plankExtents:
+    variable: {fileID: 11400000, guid: 2c748a35b7dab2844be325ffcf93664e, type: 2}
+    constant: {x: 0, y: 0, z: 0}
+    useVariable: 1
+  maxCameraHeight:
+    variable: {fileID: 11400000, guid: 50db0c2a7c895594e91a3d7540cafc58, type: 2}
+    constant: 0
+    useVariable: 1
+  shapeSize: 3

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7649444035c8934ca11cdbba8ab0167, type: 3}
+  m_Name: Increase Torque Level 3
+  m_EditorClassIdentifier: 
+  name: Strenthen Torque 3
+  cost: 1000
+  uses: 0
+  sprite: {fileID: 21300000, guid: 67621fa2b6c2bdc498ffa79e69439cf1, type: 3}
+  torqueSpeed: {fileID: 11400000, guid: 5b508780372faa140a94e7d5f039b4f0, type: 2}
+  torqueAmount: 250
